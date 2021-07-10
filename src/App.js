@@ -4,10 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        Removed...
-      </header>
+      Final Removed ho hai
     </div>
   );
 }
