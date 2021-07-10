@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Netlify - Automatic Deploy
+        Netlify - Automatic Deployment
       </header>
     </div>
   );
