@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Final Removed ho hai CI False
+      <header className="App-header">
+        Removed...
+      </header>
     </div>
   );
 }
